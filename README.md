@@ -1,54 +1,26 @@
-<div align="center">
+# Hi, I'm Prathamesh Salunkhe 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B0B2E,100:3D5AFB&height=200&section=header&text=Prathamesh%20Salunkhe&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=System%20Designer%20%26%20Software%20Developer&descAlignY=58&descSize=20" width="100%"/>
-
-<a href="https://prathameshsalunkhe99.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3D5AFB&center=true&vCenter=true&width=650&lines=Java+%2B+Python+Backend+Engineer;Building+Web-Based+SCADA+Systems;Industrial+IIoT+%7C+Real-Time+Monitoring;Spring+Boot+%2B+React+%2B+TimescaleDB" alt="Typing SVG" />
-</a>
-
-</div>
-
-<br/>
+### System Designer & Software Developer | Java · Python · Industrial SCADA Systems
 
 I build backend systems and industrial software — from REST APIs and full-stack web apps to real-time SCADA platforms that monitor live industrial processes.
 
 Currently designing and developing a **Web-Based SCADA System** from the R&D phase at **Winplus Software Solution**, using React, Spring Boot, and TimescaleDB — alongside an OCR-based HMI Reader and a Python PLC Data Logger for automated industrial data acquisition.
 
-<br/>
+- 🔭 **Currently building:** Web-Based SCADA platform (React + Spring Boot + TimescaleDB)
+- 🌱 **Currently exploring:** Apache Kafka, event-driven architecture, industrial IIoT integration
+- 💼 **Background:** Java Full Stack → System Designer for industrial software
+- 📫 **Reach me:** prathameshsalunkhe90@gmail.com
+- 🌐 **Portfolio:** [prathameshsalunkhe99.vercel.app](https://prathameshsalunkhe99.vercel.app/)
 
-<table align="center">
-<tr>
-<td>🔭</td><td><b>Currently building</b></td><td>Web-Based SCADA platform (React + Spring Boot + TimescaleDB)</td>
-</tr>
-<tr>
-<td>🌱</td><td><b>Currently exploring</b></td><td>Apache Kafka, event-driven architecture, industrial IIoT integration</td>
-</tr>
-<tr>
-<td>💼</td><td><b>Background</b></td><td>Java Full Stack → System Designer for industrial software</td>
-</tr>
-<tr>
-<td>📫</td><td><b>Reach me</b></td><td>prathameshsalunkhe90@gmail.com</td>
-</tr>
-<tr>
-<td>🌐</td><td><b>Portfolio</b></td><td><a href="https://prathameshsalunkhe99.vercel.app/">prathameshsalunkhe99.vercel.app</a></td>
-</tr>
-</table>
+---
 
-<br/>
-
-<div align="center">
-
-### 🌐 Connect
+## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-salunkhe-192955226)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://prathameshsalunkhe99.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathameshsalunkhe90@gmail.com)
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D5AFB,100:1B0B2E&height=3&width=100%25" width="100%"/>
-
-<div align="center">
+---
 
 ## 💻 Tech Stack
 
@@ -86,15 +58,9 @@ Currently designing and developing a **Web-Based SCADA System** from the R&D pha
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D5AFB,100:1B0B2E&height=3&width=100%25" width="100%"/>
-
-<div align="center">
+---
 
 ## 🚀 Featured Work
-
-</div>
 
 | Project | Stack | What it does |
 |---|---|---|
@@ -104,32 +70,21 @@ Currently designing and developing a **Web-Based SCADA System** from the R&D pha
 | **HMI Reader** | Python · OCR | Captures and transmits HMI screen data securely to client systems via API Key authentication. |
 | **PLC Data Logger** | Python | Automated PLC data acquisition workflows integrated with the SCADA platform. |
 
-<div align="center">
+*(Full write-ups and live links on my [portfolio](https://prathameshsalunkhe99.vercel.app/).)*
 
-*(Full write-ups and live links on my <a href="https://prathameshsalunkhe99.vercel.app/">portfolio</a>.)*
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D5AFB,100:1B0B2E&height=3&width=100%25" width="100%"/>
-
-<div align="center">
+---
 
 ## 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prathameshsalunkhe99&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsalunkhe99&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshsalunkhe99&theme=default_repocard&hide_border=false"/>
+![](https://github-readme-stats.vercel.app/api?username=prathameshsalunkhe99&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=prathameshsalunkhe99&theme=default_repocard&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshsalunkhe99&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=prathameshsalunkhe99&theme=date_night&no-frame=false&no-bg=false&margin-w=4"/>
+![](https://github-profile-trophy.vercel.app/?username=prathameshsalunkhe99&theme=date_night&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D5AFB,100:1B0B2E&height=3&width=100%25" width="100%"/>
-
-<div align="center">
+---
 
 [![](https://visitcount.itsvg.in/api?id=prathameshsalunkhe99&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -138,7 +93,3 @@ Currently designing and developing a **Web-Based SCADA System** from the R&D pha
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshsalunkhe99/prathameshsalunkhe99/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/prathameshsalunkhe99/prathameshsalunkhe99/output/github-snake.svg" />
 </picture>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B0B2E,100:3D5AFB&height=100&section=footer" width="100%"/>
-
-</div>
